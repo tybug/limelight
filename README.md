@@ -27,7 +27,7 @@ That said, spotlight is a good piece of technology which does what 90% of users 
 
 ## Bonuses
 
-Along the way, "reimplement spotlight" turned into "wouldn't it be cool if I added that to spotlight?" And thats how tybug-local now has reverse polish notation, syntax for searching inside a particular directory (recursively or not), a vscode-style command palette (with `>`), and a bunch of other random stuff I find useful and/or cool.
+Along the way, "reimplement spotlight" turned into "wouldn't it be cool if I added that to spotlight?" And that's how tybug-local now has reverse polish notation, syntax for searching inside a particular directory (recursively or not), a vscode-style command palette (with `>`), and a bunch of other random stuff I find useful and/or cool.
 
 ## Stripped
 
