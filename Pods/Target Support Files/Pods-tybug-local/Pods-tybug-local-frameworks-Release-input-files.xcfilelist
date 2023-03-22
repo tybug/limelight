@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-tybug-local/Pods-tybug-local-frameworks.sh
+${BUILT_PRODUCTS_DIR}/HotKey/HotKey.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
