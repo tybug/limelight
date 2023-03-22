@@ -12,7 +12,7 @@ In fact, I recommend you don't use this code at all!
 
 ## Why
 
-99% of the time I use spotlight for searching for a local file. I almost never use it to search within file contents, and I certainly don't want it to split results into "documents", "music", "spreadsheets", and who knows what else. I don't know who at apple decided a dedicated "fonts" section was a good idea.
+99% of the time I use spotlight to search for a local file. I almost never use it to search file contents, and I certainly don't want it to split results into "documents", "music", "spreadsheets", and who knows what else. I don't know who at apple decided a dedicated "fonts" section was a good idea.
 
 Setting presentation aside, even the basic functionality of spotlight has some issues:
 
