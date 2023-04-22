@@ -4,7 +4,7 @@ This is my replacement for [macos' spotlight](https://en.wikipedia.org/wiki/Spot
 
 ## Disclaimer
 
-tybug-local, as the name might suggest, is written completely for myself. I'm making a variant of the code (with certain features tied to my specific setup removed) available here so I have somewhere to point people to.
+tybug-local, as the name might suggest, is written completely for myself. I'm making a variant of the code (with certain features specific to my setup removed) available here so I have somewhere to point people to.
 
 I am NOT providing support for this code in any way shape or form. Do not open issues or pull requests; they will be closed.
 
@@ -17,7 +17,7 @@ In fact, I recommend you don't use this code at all!
 Setting presentation aside, even the basic functionality of spotlight has some issues:
 
 * \>500ms response times for name matches against local files
-* failing to match file names with certain unicode characters
+* incorrect results for certain unicode characters
   * try creating a file called ・－・.txt and searching for it with spotlight (spoiler: it can't find it)
 
 It really should not be this hard for macos to provide an application which displays exact filename matches in <100ms (ideally <30ms)! The fact that spotlight fails to do so is the reason tybug-local exists.
